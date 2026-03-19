@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Joheb</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/joheb6704) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johebkhan32) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/joheb-khan-5abaa6149/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/johebkhan32) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@johebkhan1147) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johebkhan32@gmail.com) 
